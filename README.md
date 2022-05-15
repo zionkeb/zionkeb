@@ -1,7 +1,5 @@
 -Hi, My name is Zion. I am currently taking a software development class at PromineoTech.
-I have a Business Administration BS from ASU. I will be a candidate for a job, as soon as I
-am done with my course!
-
+I have a Business Administration BS from ASU. 
  
 
  
